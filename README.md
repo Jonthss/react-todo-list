@@ -32,7 +32,3 @@ A basic Todo List application built to practice React fundamentals. It features 
     ```bash
     npm run dev
     ```
-
-## License
-
-MIT
